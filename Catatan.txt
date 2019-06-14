@@ -1,4 +1,5 @@
 Resolusi Membuat Sistem Login Menggunakan Framework CodeIgniter
 *Menggabungkan template bootstrap frontend dan backend kedalam framework codeigniter
 *Setting Konfigurasi
-*Coding !!!
+*Happy Coding !!!
+
